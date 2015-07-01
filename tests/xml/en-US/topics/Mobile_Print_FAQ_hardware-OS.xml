@@ -25,19 +25,19 @@
 			<p its:translate="yes" class="- topic/p ">Document or image files saved in the app are only accessible through the app’s <uicontrol its:translate="yes" class="+ topic/ph ui-d/uicontrol ">Documents</uicontrol> window.</p>
 		</section>
 		<section its:translate="yes" class="- topic/section ">
-			<p its:translate="yes" class="- topic/p ">Which KYOCERA printers and MFPs are supported?</p>
+			<p its:translate="yes" class="- topic/p ">Which printers and MFPs are supported?</p>
 			<p its:translate="yes" class="- topic/p ">The complete list appears at the end of this document.</p>
 		</section>
 		<section its:translate="yes" class="- topic/section ">
-			<p its:translate="yes" class="- topic/p ">Are you planning to add support for additional KYOCERA printer and MFP models?</p>
-			<p its:translate="yes" class="- topic/p ">Yes. The app will be updated occasionally to support new KYOCERA printing devices.</p>
+			<p its:translate="yes" class="- topic/p ">Are you planning to add support for additional printer and MFP models?</p>
+			<p its:translate="yes" class="- topic/p ">Yes. The app will be updated occasionally to support new printing devices.</p>
 		</section>
 		<section its:translate="yes" class="- topic/section ">
-			<p its:translate="yes" class="- topic/p ">Can I use this app to print to non-KYOCERA printers and MFPs?</p>
+			<p its:translate="yes" class="- topic/p ">Can I use this app to print to other printers and MFPs?</p>
 			<p its:translate="yes" class="- topic/p ">The app will not work with other brand printers and MFPs.</p>
 		</section>
 		<section its:translate="yes" class="- topic/section ">
-			<p its:translate="yes" class="- topic/p ">Are there any differences in the KYOCERA Mobile Print for tablet device versus mobile phone?</p>
+			<p its:translate="yes" class="- topic/p ">Are there any differences in the Mobile Print for tablet device versus mobile phone?</p>
 			<p its:translate="yes" class="- topic/p ">The layout is slightly different to take best advantage of the different screen sizes, but the features are the same for both.</p>
 		</section>
 	</conbody>

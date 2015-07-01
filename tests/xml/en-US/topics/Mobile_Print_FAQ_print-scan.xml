@@ -22,11 +22,11 @@
 			<p its:translate="yes" class="- topic/p ">No. Print jobs are automatically sent to the printing device’s default paper tray. However, if the paper size that you selected is in a tray other than the default, that tray will be used to print the job.</p>
 		</section>
 		<section its:translate="yes" class="- topic/section ">
-			<p its:translate="yes" class="- topic/p ">Can I save a new photo taken in KYOCERA Mobile Print?</p>
+			<p its:translate="yes" class="- topic/p ">Can I save a new photo taken in Mobile Print?</p>
 			<p its:translate="yes" class="- topic/p ">Yes. On iOS devices, new photos taken in the app are saved to the device’s native <uicontrol its:translate="yes" class="+ topic/ph ui-d/uicontrol ">Albums</uicontrol> folder. On Android devices, new photos are saved in your specified download folder or in the default <uicontrol its:translate="yes" class="+ topic/ph ui-d/uicontrol ">/sdcard/Download</uicontrol> folder.</p>
 		</section>
 		<section its:translate="yes" class="- topic/section ">
-			<p its:translate="yes" class="- topic/p ">How do I view stored photos or documents in KYOCERA Mobile Print?</p>
+			<p its:translate="yes" class="- topic/p ">How do I view stored photos or documents in Mobile Print?</p>
 			<p its:translate="yes" class="- topic/p ">On iOS devices, you can access stored photos or documents in the <uicontrol its:translate="yes" class="+ topic/ph ui-d/uicontrol ">Documents</uicontrol> window. On Android devices, you can access stored photos or documents in your specified download folder or in the default <uicontrol its:translate="yes" class="+ topic/ph ui-d/uicontrol ">/sdcard/Download</uicontrol> folder.</p>
 		</section>
 		<section its:translate="yes" class="- topic/section ">
@@ -51,7 +51,7 @@
 		</section>
 		<section its:translate="yes" class="- topic/section ">
 			<p its:translate="yes" class="- topic/p ">What printing protocols are supported?</p>
-			<p its:translate="yes" class="- topic/p ">RAW (port 9100), IPP (port 631), and IPPS (SSL port 443) are supported. On iOS devices, you can designate a printing protocol by tapping <uicontrol its:translate="yes" class="+ topic/ph ui-d/uicontrol ">Settings</uicontrol> &gt; <uicontrol its:translate="yes" class="+ topic/ph ui-d/uicontrol ">KYOCERA Print</uicontrol> &gt; <uicontrol its:translate="yes" class="+ topic/ph ui-d/uicontrol ">Printing protocol</uicontrol>. On Android devices, within the app, tap <uicontrol its:translate="yes" class="+ topic/ph ui-d/uicontrol ">Menu</uicontrol> &gt; <uicontrol its:translate="yes" class="+ topic/ph ui-d/uicontrol ">Advanced Settings</uicontrol> &gt; <uicontrol its:translate="yes" class="+ topic/ph ui-d/uicontrol ">Printing protocol</uicontrol>. The printing protocol selected on your mobile device must match that used by the printing device. If you are not sure which protocol is used by your printing device, contact your system administrator.</p>
+			<p its:translate="yes" class="- topic/p ">RAW (port 9100), IPP (port 631), and IPPS (SSL port 443) are supported. On iOS devices, you can designate a printing protocol by tapping <uicontrol its:translate="yes" class="+ topic/ph ui-d/uicontrol ">Settings</uicontrol> &gt; <uicontrol its:translate="yes" class="+ topic/ph ui-d/uicontrol ">Mobile Print</uicontrol> &gt; <uicontrol its:translate="yes" class="+ topic/ph ui-d/uicontrol ">Printing protocol</uicontrol>. On Android devices, within the app, tap <uicontrol its:translate="yes" class="+ topic/ph ui-d/uicontrol ">Menu</uicontrol> &gt; <uicontrol its:translate="yes" class="+ topic/ph ui-d/uicontrol ">Advanced Settings</uicontrol> &gt; <uicontrol its:translate="yes" class="+ topic/ph ui-d/uicontrol ">Printing protocol</uicontrol>. The printing protocol selected on your mobile device must match that used by the printing device. If you are not sure which protocol is used by your printing device, contact your system administrator.</p>
 		</section>
 		<section its:translate="yes" class="- topic/section ">
 			<p its:translate="yes" class="- topic/p ">Is there a limit to the number of pages that can be scanned via the app on Android devices?</p>

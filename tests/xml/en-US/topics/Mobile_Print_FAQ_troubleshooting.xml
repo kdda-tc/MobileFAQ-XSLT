@@ -26,7 +26,7 @@
 			<p its:translate="yes" class="- topic/p ">If necessary, contact your system administrator for assistance.</p>
 		</section>
 		<section its:translate="yes" class="- topic/section ">
-			<p its:translate="yes" class="- topic/p ">How do I find the IP address of my KYOCERA printing device or MFP?</p>
+			<p its:translate="yes" class="- topic/p ">How do I find the IP address of my printing device or MFP?</p>
 			<p its:translate="yes" class="- topic/p ">Go to the system menu of the printing device and print out a status page.</p>
 		</section>
 		<section its:translate="yes" class="- topic/section ">
@@ -35,7 +35,7 @@
 		</section>
 		<section its:translate="yes" class="- topic/section ">
 			<p its:translate="yes" class="- topic/p ">I’m having trouble previewing Microsoft Office files. Why?</p>
-			<p its:translate="yes" class="- topic/p ">KYOCERA Mobile Print uses iOS services to render previews of Office documents. For better results, use files produced in Office 2007 or later.</p>
+			<p its:translate="yes" class="- topic/p ">Mobile Print uses iOS services to render previews of Office documents. For better results, use files produced in Office 2007 or later.</p>
 		</section>
 		<section its:translate="yes" class="- topic/section ">
 			<p its:translate="yes" class="- topic/p ">I resized a document by pinching it in the viewport, and then I printed it. Why does the printed document have a large black stripe running down the right margin?</p>

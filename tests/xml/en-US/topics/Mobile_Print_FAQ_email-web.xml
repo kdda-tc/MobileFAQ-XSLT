@@ -2,7 +2,7 @@
 	<title its:translate="yes" class="- topic/title ">E-mailing and web browsing</title>
 	<conbody class="- topic/body concept/conbody">
 		<section its:translate="yes" class="- topic/section ">
-			<p its:translate="yes" class="- topic/p ">How does KYOCERA Mobile Print work with e-mail? </p>
+			<p its:translate="yes" class="- topic/p ">How does Mobile Print work with e-mail? </p>
 			<p its:translate="yes" class="- topic/p ">You can send e-mails with document or image attachments from within the app if your device is properly configured to send and receive e-mails.</p>
 		</section>
 		<section its:translate="yes" class="- topic/section ">
@@ -11,8 +11,8 @@
 			</p>
 		</section>
 		<section its:translate="yes" class="- topic/section ">
-			<p its:translate="yes" class="- topic/p ">How does KYOCERA Mobile Print handle web browsing?</p>
-			<p its:translate="yes" class="- topic/p ">KYOCERA Mobile Print has a built-in web browser for accessing the Internet. You can print webpages accessed through the browser.</p>
+			<p its:translate="yes" class="- topic/p ">How does Mobile Print handle web browsing?</p>
+			<p its:translate="yes" class="- topic/p ">Mobile Print has a built-in web browser for accessing the Internet. You can print webpages accessed through the browser.</p>
 		</section>
 		<section its:translate="yes" class="- topic/section ">
 			<p its:translate="yes" class="- topic/p ">Can I print from my online accounts, such as free e-mail accounts or cloud-based services?</p>
