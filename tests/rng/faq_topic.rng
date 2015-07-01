@@ -6,37 +6,59 @@
 
 	<define name="content">
 		<element name="concept" xmlns:its="http://www.w3.org/2005/11/its" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-			<attribute name="class"/>
-				<optional>
-					<attribute name="its:translate"/>
-				</optional>
-				<optional>
-					<attribute name="xsi:noNamespaceSchemaLocation"/>
-				</optional>
-				<optional>
-					<attribute name="its:version"/>
-				</optional>
+			<attribute name="class">
+				<text/>
+			</attribute>
+			<optional>
+				<attribute name="its:translate">
+					<text/>
+				</attribute>
+			</optional>
+			<optional>
+				<attribute name="xsi:noNamespaceSchemaLocation">
+					<text/>
+				</attribute>
+			</optional>
+			<optional>
+				<attribute name="its:version">
+					<text/>
+				</attribute>
+			</optional>
 			<element name="title">
-				<attribute name="class"/>
+				<attribute name="class">
+					<text/>
+				</attribute>
 				<optional>
-					<attribute name="its:translate"/>
+					<attribute name="its:translate">
+						<text/>
+					</attribute>
 				</optional>
 				<text/>
 			</element>
 			<element name="conbody">
-				<attribute name="class"/>
+				<attribute name="class">
+					<text/>
+				</attribute>
 				<optional>
-					<attribute name="its:translate"/>
+					<attribute name="its:translate">
+						<text/>
+					</attribute>
 				</optional>
 				<oneOrMore>
 					<element name="section">
-						<attribute name="class"/>
+						<attribute name="class">
+							<text/>
+						</attribute>
 				<optional>
-					<attribute name="its:translate"/>
+					<attribute name="its:translate">
+						<text/>
+					</attribute>
 				</optional>
 						<ref name="para"/>
 						<interleave>
-							<ref name="para"/>
+							<zeroOrMore>
+								<ref name="para"/>
+							</zeroOrMore>
 							<zeroOrMore>
 								<ref name="unorderedList"/>
 							</zeroOrMore>
@@ -49,26 +71,38 @@
 
 	<define name="para">
 		<element name="p" xmlns:its="http://www.w3.org/2005/11/its" >
-			<attribute name="class"/>
+			<attribute name="class">
+				<text/>
+			</attribute>
 			<optional>
-				<attribute name="its:translate"/>
+				<attribute name="its:translate">
+					<text/>
+				</attribute>
 			</optional>
 			<interleave>
 				<text/>
 				<zeroOrMore>
 					<element name="uicontrol">
-						<attribute name="class"/>
+						<attribute name="class">
+							<text/>
+						</attribute>
 						<optional>
-							<attribute name="its:translate"/>
+							<attribute name="its:translate">
+								<text/>
+							</attribute>
 						</optional>
 						<text/>
 					</element>
 				</zeroOrMore>
 				<zeroOrMore>
 					<element name="i">
-						<attribute name="class"/>
+						<attribute name="class">
+							<text/>
+						</attribute>
 					<optional>
-						<attribute name="its:translate"/>
+						<attribute name="its:translate">
+							<text/>
+						</attribute>
 					</optional>
 					<text/>
 				</element>
@@ -79,15 +113,23 @@
 
 	<define name="unorderedList">
 		<element name="ul" xmlns:its="http://www.w3.org/2005/11/its" >
-			<attribute name="class"/>
-				<optional>
-					<attribute name="its:translate"/>
-				</optional>
+			<attribute name="class">
+				<text/>
+			</attribute>
+			<optional>
+				<attribute name="its:translate">
+					<text/>
+				</attribute>
+			</optional>
 			<oneOrMore>
 				<element name="li">
-					<attribute name="class"/>
+					<attribute name="class">
+						<text/>
+					</attribute>
 				<optional>
-					<attribute name="its:translate"/>
+					<attribute name="its:translate">
+						<text/>
+					</attribute>
 				</optional>
 					<ref name="para"/>
 				</element>

@@ -20,7 +20,7 @@ class TestXMLTransformer():
 
     def test_write_output(self):
         self.transformer.transform()
-        self.transformer.write('tests/out/out.html')
+#        self.transformer.write('tests/out/out.html')
         assert os.path.isfile(os.path.abspath('tests/out/out.html')) is True
 
     def test_add_title_to_output(self):

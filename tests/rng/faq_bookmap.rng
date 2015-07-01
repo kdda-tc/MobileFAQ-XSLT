@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<grammar xmlns="http://relaxng.org/ns/structure/1.0">
+	<start>
+		<ref name="map"/>
+	</start>
+
+	<define name="map">
+		<element name="bookmap" 
+                           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<attribute name="class">
+				<text/>
+			</attribute>
+			<attribute name="language">
+				<text/>
+			</attribute>
+			<attribute name="xsi:noNamespaceSchemaLocation">
+				<text/>
+			</attribute>
+			<attribute name="xml:lang">
+				<text/>
+			</attribute>
+			<ref name="bookinfo"/>
+			<ref name="chptr"/>
+		</element>
+	</define>
+
+	<define name="bookinfo">
+		<element name="bkinfo">
+			<attribute name="class">
+				<text/>
+			</attribute>
+			<attribute name="navtitle">
+				<text/>
+			</attribute>
+			<attribute name="xml:lang">
+				<text/>
+			</attribute>
+			<attribute name="href">
+				<text/>
+			</attribute>
+		</element>
+	</define>
+
+	<define name="chptr">
+		<element name="chapter">
+			<attribute name="navtitle">
+				<text/>
+			</attribute>
+			<attribute name="class">
+				<text/>
+			</attribute>
+			<oneOrMore>
+				<element name="topicref">
+					<attribute name="navtitle">
+						<text/>
+					</attribute>
+					<attribute name="type">
+						<text/>
+					</attribute>
+					<attribute name="class">
+						<text/>
+					</attribute>
+					<attribute name="href">
+						<text/>
+					</attribute>
+				</element>
+			</oneOrMore>
+		</element>
+	</define>
+
+</grammar>
