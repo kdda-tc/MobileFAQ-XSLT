@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<grammar xmlns="http://relaxng.org/ns/structure/1.0">
+	<start>
+		<ref name="content"/>
+	</start>
+
+	<define name="content">
+		<element name="concept" xmlns:its="http://www.w3.org/2005/11/its" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			<attribute name="class"/>
+				<optional>
+					<attribute name="its:translate"/>
+				</optional>
+				<optional>
+					<attribute name="xsi:noNamespaceSchemaLocation"/>
+				</optional>
+				<optional>
+					<attribute name="its:version"/>
+				</optional>
+			<element name="title">
+				<attribute name="class"/>
+				<optional>
+					<attribute name="its:translate"/>
+				</optional>
+				<text/>
+			</element>
+			<element name="conbody">
+				<attribute name="class"/>
+				<optional>
+					<attribute name="its:translate"/>
+				</optional>
+				<oneOrMore>
+					<element name="section">
+						<attribute name="class"/>
+				<optional>
+					<attribute name="its:translate"/>
+				</optional>
+						<ref name="para"/>
+						<interleave>
+							<ref name="para"/>
+							<zeroOrMore>
+								<ref name="unorderedList"/>
+							</zeroOrMore>
+						</interleave>
+					</element>
+				</oneOrMore>
+			</element>
+		</element>
+	</define>
+
+	<define name="para">
+		<element name="p" xmlns:its="http://www.w3.org/2005/11/its" >
+			<attribute name="class"/>
+			<optional>
+				<attribute name="its:translate"/>
+			</optional>
+			<interleave>
+				<text/>
+				<zeroOrMore>
+					<element name="uicontrol">
+						<attribute name="class"/>
+						<optional>
+							<attribute name="its:translate"/>
+						</optional>
+						<text/>
+					</element>
+				</zeroOrMore>
+				<zeroOrMore>
+					<element name="i">
+						<attribute name="class"/>
+					<optional>
+						<attribute name="its:translate"/>
+					</optional>
+					<text/>
+				</element>
+			</zeroOrMore>
+			</interleave>
+		</element>
+	</define>
+
+	<define name="unorderedList">
+		<element name="ul" xmlns:its="http://www.w3.org/2005/11/its" >
+			<attribute name="class"/>
+				<optional>
+					<attribute name="its:translate"/>
+				</optional>
+			<oneOrMore>
+				<element name="li">
+					<attribute name="class"/>
+				<optional>
+					<attribute name="its:translate"/>
+				</optional>
+					<ref name="para"/>
+				</element>
+			</oneOrMore>
+		</element>
+	</define>
+
+</grammar>

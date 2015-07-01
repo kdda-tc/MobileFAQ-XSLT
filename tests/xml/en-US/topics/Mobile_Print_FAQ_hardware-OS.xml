@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><!--Attribute filters: platform=  audience=--><concept xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:its="http://www.w3.org/2005/11/its" xsi:noNamespaceSchemaLocation="../../../../catalog/concept.xsd" its:version="1.0" its:translate="yes" class="- topic/topic concept/concept">
+	<title its:translate="yes" class="- topic/title ">Hardware and operating system</title>
+	<conbody class="- topic/body concept/conbody">
+		<section its:translate="yes" class="- topic/section ">
+			<p its:translate="yes" class="- topic/p ">Which mobile devices are supported?</p>
+			<ul its:translate="yes" class="- topic/ul ">
+				<li its:translate="yes" class="- topic/li ">
+					<p its:translate="yes" class="- topic/p ">Apple iPad, iPhone, and iPod touch devices running iOS version 5.0 or later</p>
+				</li>
+				<li its:translate="yes" class="- topic/li ">
+					<p its:translate="yes" class="- topic/p ">Android smartphones and tablets</p>
+				</li>
+			</ul>
+		</section>
+		<section its:translate="yes" class="- topic/section ">
+			<p its:translate="yes" class="- topic/p ">Which Android versions are supported?</p>
+			<p its:translate="yes" class="- topic/p ">Version 2.2 or later for smartphones, and version 3.0 or later for tablets.</p>
+		</section>
+		<section its:translate="yes" class="- topic/section ">
+			<p its:translate="yes" class="- topic/p ">If I save a document or image file in the app on my Android device, where is it stored?</p>
+			<p its:translate="yes" class="- topic/p ">Document or image files saved in the app are stored in your specified download folder or in the default <uicontrol its:translate="yes" class="+ topic/ph ui-d/uicontrol ">/sdcard/Download</uicontrol> folder.</p>
+		</section>
+		<section its:translate="yes" class="- topic/section ">
+			<p its:translate="yes" class="- topic/p ">If I save a document or image file in the app on my iOS device, where is it stored?</p>
+			<p its:translate="yes" class="- topic/p ">Document or image files saved in the app are only accessible through the app’s <uicontrol its:translate="yes" class="+ topic/ph ui-d/uicontrol ">Documents</uicontrol> window.</p>
+		</section>
+		<section its:translate="yes" class="- topic/section ">
+			<p its:translate="yes" class="- topic/p ">Which KYOCERA printers and MFPs are supported?</p>
+			<p its:translate="yes" class="- topic/p ">The complete list appears at the end of this document.</p>
+		</section>
+		<section its:translate="yes" class="- topic/section ">
+			<p its:translate="yes" class="- topic/p ">Are you planning to add support for additional KYOCERA printer and MFP models?</p>
+			<p its:translate="yes" class="- topic/p ">Yes. The app will be updated occasionally to support new KYOCERA printing devices.</p>
+		</section>
+		<section its:translate="yes" class="- topic/section ">
+			<p its:translate="yes" class="- topic/p ">Can I use this app to print to non-KYOCERA printers and MFPs?</p>
+			<p its:translate="yes" class="- topic/p ">The app will not work with other brand printers and MFPs.</p>
+		</section>
+		<section its:translate="yes" class="- topic/section ">
+			<p its:translate="yes" class="- topic/p ">Are there any differences in the KYOCERA Mobile Print for tablet device versus mobile phone?</p>
+			<p its:translate="yes" class="- topic/p ">The layout is slightly different to take best advantage of the different screen sizes, but the features are the same for both.</p>
+		</section>
+	</conbody>
+</concept>

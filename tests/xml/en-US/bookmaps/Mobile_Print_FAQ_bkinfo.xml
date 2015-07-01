@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><!--Attribute filters: platform=  audience=--><bkinfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:its="http://www.w3.org/2005/11/its" its:version="1.0" xsi:noNamespaceSchemaLocation="../../catalog/bkinfo.xsd" class="- topic/topic bkinfo/bkinfo " xml:lang="en-US">
+	<title its:translate="yes" class="- topic/title ">KYOCERA Moble Print</title>
+	<bktitlealts class="- topic/titlealts bkinfo/bktitlealts ">
+		<bksubtitle its:translate="yes" class="- topic/searchtitle bkinfo/bksubtitle ">FAQ</bksubtitle>
+	</bktitlealts><bkabstract its:translate="yes" class="- topic/shortdesc bkinfo/bkabstract "/><bkrevision its:translate="yes" class="- topic/ph bkinfo/bkrevision"/>
+	<bkinfobody class="- topic/body bkinfo/bkinfobody ">
+		<bkrights class="- topic/p bkinfo/bkrights ">
+			<bkcopyrfirst its:translate="yes" class="- - topic/ph bkinfo/bkcopyrfirst ">
+				<year its:translate="yes" class="- topic/ph bkinfo/year ">2012</year>
+			</bkcopyrfirst>
+			<bkcopyrlast its:translate="yes" class="- topic/ph bkinfo/bkcopyrlast ">
+				<year its:translate="yes" class="- topic/ph bkinfo/year ">2012</year>
+			</bkcopyrlast>
+			<bkowner class="- topic/note bkinfo/bkowner ">
+				<organization class="- topic/p bkinfo/organization ">
+					<orgname its:translate="yes" class="- topic/ph bkinfo/orgname ">KYOCERA Document Solutions</orgname>
+					<address class="- topic/lines bkinfo/address " its:translate="yes">1855 Gateway Blvd #800 </address>
+					<address class="- topic/lines bkinfo/address " its:translate="yes">Concord, CA 94520</address>
+					<phone its:translate="yes" class="- topic/ph bkinfo/phone ">(925) 849-3300</phone><resource class="- topic/xref bkinfo/resource "/>
+				</organization>
+			</bkowner>
+		</bkrights>
+		<bkfooters>
+			<bkfooter used-for="frontmatter" its:translate="yes"><p its:translate="yes" class="- topic/p "/>
+			</bkfooter>
+		</bkfooters>
+	</bkinfobody><boilerplate-file href="../stylesheets/knowledgebase-html/boilerplate.xml"/>
+</bkinfo>

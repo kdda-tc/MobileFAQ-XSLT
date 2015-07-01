@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><!--Attribute filters: platform=  audience=--><concept xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:its="http://www.w3.org/2005/11/its" xsi:noNamespaceSchemaLocation="../../../../catalog/concept.xsd" its:version="1.0" its:translate="yes" class="- topic/topic concept/concept">
+	<title its:translate="yes" class="- topic/title ">Discovery and network</title>
+	<conbody class="- topic/body concept/conbody">
+		<section its:translate="yes" class="- topic/section ">
+			<p its:translate="yes" class="- topic/p ">What type of connection do I need to print or scan from my mobile device?</p>
+			<p its:translate="yes" class="- topic/p ">To print or scan using KYOCERA Mobile Print, your mobile device must be connected wirelessly to the same local area network as your targeted printing device or MFP.</p>
+		</section>
+		<section its:translate="yes" class="- topic/section ">
+			<p its:translate="yes" class="- topic/p ">How does KYOCERA Mobile Print discover printing devices?</p>
+			<p its:translate="yes" class="- topic/p ">Devices are discovered through WS-Discovery by default. Discovery via Bonjour or SNMP is also available. When using the Bonjour discovery protocol, ensure that Bonjour is enabled on your printing device.</p>
+		</section>
+		<section its:translate="yes" class="- topic/section ">
+			<p its:translate="yes" class="- topic/p ">Is there a time limit to device discovery?</p>
+			<p its:translate="yes" class="- topic/p ">By default, discovery timeout is 10 seconds. To change the timeout period on iOS devices, open <uicontrol its:translate="yes" class="+ topic/ph ui-d/uicontrol ">Settings</uicontrol> &gt; <uicontrol its:translate="yes" class="+ topic/ph ui-d/uicontrol ">KYOCERA Print</uicontrol> &gt; <uicontrol its:translate="yes" class="+ topic/ph ui-d/uicontrol ">Discovery</uicontrol> timeout, and select a timeout period between 5 and 60 seconds. On Android devices, within the app, open <uicontrol its:translate="yes" class="+ topic/ph ui-d/uicontrol ">Menu</uicontrol> &gt; <uicontrol its:translate="yes" class="+ topic/ph ui-d/uicontrol ">Advanced Settings</uicontrol> &gt; <uicontrol its:translate="yes" class="+ topic/ph ui-d/uicontrol ">Discovery timeout</uicontrol> and select a timeout period.</p>
+		</section>
+		<section its:translate="yes" class="- topic/section ">
+			<p its:translate="yes" class="- topic/p ">What are “Favorites” and how do I add or delete them?</p>
+			<p its:translate="yes" class="- topic/p ">Favorites are your favorite printing devices and MFPs, or the ones that you use most frequently. You can add or remove devices from the <uicontrol its:translate="yes" class="+ topic/ph ui-d/uicontrol ">Favorites</uicontrol> list by tapping the <uicontrol its:translate="yes" class="+ topic/ph ui-d/uicontrol ">Star</uicontrol> icon next to any discovered device. The <uicontrol its:translate="yes" class="+ topic/ph ui-d/uicontrol ">Favorites</uicontrol> list supports up to 10 devices.</p>
+		</section>
+		<section its:translate="yes" class="- topic/section ">
+			<p its:translate="yes" class="- topic/p ">Can I import files to the app?</p>
+			<p its:translate="yes" class="- topic/p ">On iOS devices, you can import files to the app by any of the following methods:</p>
+			<ul its:translate="yes" class="- topic/ul ">
+				<li its:translate="yes" class="- topic/li ">
+					<p its:translate="yes" class="- topic/p "><i its:translate="yes" class="+ topic/ph hi-d/i ">From Mail</i>: Open an e-mail attachment in the app by touching and holding the attachment. Files opened in the app are automatically saved to the app.</p>
+				</li>
+				<li its:translate="yes" class="- topic/li ">
+					<p its:translate="yes" class="- topic/p "><i its:translate="yes" class="+ topic/ph hi-d/i ">From iTunes</i>: When syncing your iOS device to your computer using iTunes, choose <uicontrol its:translate="yes" class="+ topic/ph ui-d/uicontrol ">KYOCERA Print</uicontrol> in the <uicontrol its:translate="yes" class="+ topic/ph ui-d/uicontrol ">Apps</uicontrol> tab, and transfer files through the <uicontrol its:translate="yes" class="+ topic/ph ui-d/uicontrol ">KYOCERA Print Documents</uicontrol> pane.</p>
+				</li>
+				<li its:translate="yes" class="- topic/li ">
+					<p its:translate="yes" class="- topic/p "><i its:translate="yes" class="+ topic/ph hi-d/i ">From Wi-Fi</i>: In the app's <uicontrol its:translate="yes" class="+ topic/ph ui-d/uicontrol ">Documents</uicontrol> window, tap the <uicontrol its:translate="yes" class="+ topic/ph ui-d/uicontrol ">Wi-Fi</uicontrol> icon to access the <uicontrol its:translate="yes" class="+ topic/ph ui-d/uicontrol ">File Share</uicontrol> feature. With <uicontrol its:translate="yes" class="+ topic/ph ui-d/uicontrol ">File Share</uicontrol>, you can transfer files between the app and a desktop computer.</p>
+				</li>
+			</ul>
+			<p its:translate="yes" class="- topic/p ">Imported files can be retrieved in the app’s <uicontrol its:translate="yes" class="+ topic/ph ui-d/uicontrol ">Documents</uicontrol> window.</p>
+			<p its:translate="yes" class="- topic/p ">On Android devices, you must transfer files to your specified download folder or the default <uicontrol its:translate="yes" class="+ topic/ph ui-d/uicontrol ">/sdcard/Download</uicontrol> folder in order for them to be available to the app.</p>
+		</section>
+		<section its:translate="yes" class="- topic/section ">
+			<p its:translate="yes" class="- topic/p ">Can I transfer files from the app to a desktop computer?</p>
+			<p its:translate="yes" class="- topic/p ">On iOS devices, there are two methods by which you can transfer files to a desktop computer. You can either send the file by e-mail from within the app, or use the app’s <uicontrol its:translate="yes" class="+ topic/ph ui-d/uicontrol ">File Share</uicontrol> feature to directly access your desktop computer.  On Android devices, you can e-mail files that you have saved in the app to any e-mail account that you can access from your desktop computer.</p>
+		</section>
+		<section its:translate="yes" class="- topic/section ">
+			<p its:translate="yes" class="- topic/p ">What is File Share?</p>
+			<p its:translate="yes" class="- topic/p ">
+				<uicontrol its:translate="yes" class="+ topic/ph ui-d/uicontrol ">File Share</uicontrol> is a KYOCERA Mobile Print feature that is available only on iOS devices. It lets you transfer files between your mobile device and desktop computer. In the app's <uicontrol its:translate="yes" class="+ topic/ph ui-d/uicontrol ">Documents</uicontrol> window, tap the <uicontrol its:translate="yes" class="+ topic/ph ui-d/uicontrol ">Wi-Fi</uicontrol> icon to access the <uicontrol its:translate="yes" class="+ topic/ph ui-d/uicontrol ">File Share</uicontrol> feature. In the appropriate fields, create a user name and password. Once those are entered, the IP address of your mobile device will appear. Turn on <uicontrol its:translate="yes" class="+ topic/ph ui-d/uicontrol ">File Share</uicontrol>. Next, type the IP address into the address bar of any web browser on your desktop computer. A webpage will open displaying the files that are stored within KYOCERA Mobile Print on your mobile device. You can then transfer files to and from your desktop computer using the commands on the webpage.</p>
+		</section>
+	</conbody>
+</concept>
