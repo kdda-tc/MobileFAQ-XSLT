@@ -13,7 +13,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"> <!-- YIKES! -->
   <head>
     <meta http-equiv="content-type" content="text/html;charset=utf-8" />
-    <title>KYOCERA Document Solutions | Mobile Print FAQ</title>
+    <title>Mobile Print FAQ</title>
     <meta name="Description" content="" />
     <meta name="Keywords" content="" />
     <meta http-equiv="content-script-type" content="text/javascript" />
@@ -47,7 +47,7 @@
     <div id="all">
       <xsl:text disable-output-escaping="yes">&lt;!-- #include virtual="/data/include/responsive/header.html" --&gt;</xsl:text>
       <div class="location_area">
-        <p class="location"><a href="/download/index.html">Support &amp; Download</a>&nbsp;&gt;&nbsp;<strong>KYOCERA Mobile Print FAQ</strong></p>
+        <p class="location"><a href="/download/index.html">Support &amp; Download</a>&nbsp;&gt;&nbsp;<strong>Mobile Print FAQ</strong></p><!-- YIKES -->
       </div>
       <div id="content">
         <div id="content_header">
@@ -69,8 +69,8 @@
           <div id="bottom_menu">
             <xsl:text disable-output-escaping="yes">&lt;!-- #include virtual="include/contact_menu.html" --&gt;</xsl:text>
             <div class="store_icon mini">
-              <a href="http://itunes.apple.com/us/app/kyocera-mobile-print/id510179385?ls=1&mt=8" target="_blank"><img src="/support/common/images/btn_appstore.gif" alt="KYOCERA Mobile Print iPhone Download" width="138" height="47" /></a>
-              <a href="https://play.google.com/store/apps/details?id=com.kyocera.kyoprint&feature=search_result#?t=W251bGwsMSwxLDEsImNvbS5reW9jZXJhLmt5b3ByaW50Il0" target="_blank"><img src="/support/common/images/btn_googleplay.gif" alt="KYOCERA Mobile Print Android Download" width="138" height="48" /></a>
+              <a href="" target="_blank"><img src="/support/common/images/btn_appstore.gif" alt="Mobile Print iPhone Download" width="138" height="47" /></a><!-- YIKES -->
+              <a href="" target="_blank"><img src="/support/common/images/btn_googleplay.gif" alt="Mobile Print Android Download" width="138" height="48" /></a>
             </div>
           </div>
         </div><xsl:text disable-output-escaping="yes">&lt;!-- /#content_body --&gt;</xsl:text>
