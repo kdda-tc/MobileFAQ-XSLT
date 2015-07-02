@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><!--Attribute filters: platform=  audience=--><concept xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:its="http://www.w3.org/2005/11/its" xsi:noNamespaceSchemaLocation="../../../../catalog/concept.xsd" its:version="1.0" its:translate="yes" class="- topic/topic concept/concept">
+	<title its:translate="yes" class="- topic/title ">General</title>
+	<conbody class="- topic/body concept/conbody ">
+		<note its:translate="yes" class="- topic/note ">First, a malformed note from our sponsor...</note>
+		<section its:translate="yes" class="- topic/section ">
+			<p its:translate="yes" class="- topic/p ">What is Mobile Print?</p>
+			<p its:translate="yes" class="- topic/p ">Mobile Print is a convenient app for iOS and Android that lets you use your mobile device to connect wirelessly to compatible printing devices and MFPs on your local area network. When connected, you can do the following:</p>
+			<ul its:translate="yes" class="- topic/ul ">
+				<li its:translate="yes" class="- topic/li ">
+					<p its:translate="yes" class="- topic/p ">Print photos and documents stored on your mobile device.</p>
+				</li>
+				<li its:translate="yes" class="- topic/li ">
+					<p its:translate="yes" class="- topic/p ">Scan documents on a compatible MFP and save them to your mobile device.</p>
+				</li>
+				<li its:translate="yes" class="- topic/li ">
+					<p its:translate="yes" class="- topic/p ">Send documents by e-mail.</p>
+				</li>
+				<li its:translate="yes" class="- topic/li ">
+					<p its:translate="yes" class="- topic/p ">Print webpages accessed through the app's built-in web browser.</p>
+				</li>
+			</ul>
+		</section>
+		<section its:translate="yes" class="- topic/section ">
+			<p its:translate="yes" class="- topic/p ">Where can I download Mobile Print?</p>
+			<p its:translate="yes" class="- topic/p ">The app is available for download from the <uicontrol its:translate="yes" class="+ topic/ph ui-d/uicontrol ">iTunes App Store</uicontrol> (for iOS devices) and <uicontrol its:translate="yes" class="+ topic/ph ui-d/uicontrol ">Google Play</uicontrol> (for Android devices).</p>
+		</section>
+		<section its:translate="yes" class="- topic/section ">
+			<p its:translate="yes" class="- topic/p ">How much does Mobile Print cost?</p>
+			<p its:translate="yes" class="- topic/p ">The app is free.</p>
+		</section>
+		<section its:translate="yes" class="- topic/section ">
+			<p its:translate="yes" class="- topic/p ">Which languages are supported by Mobile Print?</p>
+			<p its:translate="yes" class="- topic/p ">Mobile Print supports English, French, German, Italian, Japanese, Korean, Portuguese, Simplified Chinese, Traditional Chinese, and Spanish. The app automatically displays in the same language as that set in your mobile device’s system settings. If your mobile device is set to a language other than the supported languages listed above, the app will display in English.</p>
+		</section>
+	</conbody>
+</concept>

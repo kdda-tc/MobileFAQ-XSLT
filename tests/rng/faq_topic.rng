@@ -5,7 +5,9 @@
 	</start>
 
 	<define name="content">
-		<element name="concept" xmlns:its="http://www.w3.org/2005/11/its" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+		<element name="concept"
+                           xmlns:its="http://www.w3.org/2005/11/its"
+                           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 			<attribute name="class">
 				<text/>
 			</attribute>

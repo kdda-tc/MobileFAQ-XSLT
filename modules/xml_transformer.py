@@ -33,7 +33,7 @@ class XMLTransformer():
         xslt_root = etree.parse(self.xsl)
         return etree.XSLT(xslt_root)
 
-    def get_text_from(self, elem):
+    def get_text_from_elem(self, elem):
         """Return list of all text segments for a given 'elem' element"""
         root = self._load_xml()
         return [found.text for found in root.xpath('//' + elem)]

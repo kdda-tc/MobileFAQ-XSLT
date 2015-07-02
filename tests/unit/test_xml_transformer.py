@@ -83,9 +83,13 @@ class TestXMLTransformer():
         assert self.transformer.content.count('<!-- /#general -->') == 1
 
     def test_get_text_from_elem_returns_list_of_strings_for_single_elem(self):
-        title = self.transformer.get_text_from('title')
+        title = self.transformer.get_text_from_elem('title')
         assert title == ['General']
 
     def test_get_text_from_elem_returns_list_of_strings_for_elems(self):
-        uicontrol = self.transformer.get_text_from('uicontrol')
+        uicontrol = self.transformer.get_text_from_elem('uicontrol')
         assert uicontrol == ['iTunes App Store', 'Google Play']
+
+    def test_get_text_from_nonexistent_elem(self):
+        nothing = self.transformer.get_text_from_elem('nothing')
+        assert nothing == []
