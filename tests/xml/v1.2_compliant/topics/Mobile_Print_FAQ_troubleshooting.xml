@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?><!--Attribute filters: platform=  audience=--><concept xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="../org.oasis-open.dita.v1_2/schema/technicalContent/xsd/concept.xsd" id="trouble" class="- topic/topic concept/concept">
+	<title class="- topic/title ">Troubleshooting</title>
+	<conbody class="- topic/body concept/conbody">
+		<section class="- topic/section ">
+			<p class="- topic/p ">My printing device isn’t showing up in the discovered device list. What can I do?</p>
+			<ul class="- topic/ul ">
+				<li class="- topic/li ">
+					<p class="- topic/p ">Check if your printing device is supported.</p>
+				</li>
+				<li class="- topic/li ">
+					<p class="- topic/p ">Check your local area network connections and confirm that your mobile device is wirelessly connected to the network.</p>
+				</li>
+				<li class="- topic/li ">
+					<p class="- topic/p ">Check that your mobile device is accessing the same subnet address range as that of your printing device.</p>
+				</li>
+				<li class="- topic/li ">
+					<p class="- topic/p ">Retry discovery.</p>
+				</li>
+				<li class="- topic/li ">
+					<p class="- topic/p ">Try another discovery method.</p>
+				</li>
+				<li class="- topic/li ">
+					<p class="- topic/p ">Type in the IP address directly.</p>
+				</li>
+			</ul>
+			<p class="- topic/p ">If necessary, contact your system administrator for assistance.</p>
+		</section>
+		<section class="- topic/section ">
+			<p class="- topic/p ">How do I find the IP address of my printing device or MFP?</p>
+			<p class="- topic/p ">Go to the system menu of the printing device and print out a status page.</p>
+		</section>
+		<section class="- topic/section ">
+			<p class="- topic/p ">When I print documents from iWork that are formatted in landscape orientation, they appear on the paper in portrait orientation. Why?</p>
+			<p class="- topic/p ">The app can only print iWork documents in portrait orientation.</p>
+		</section>
+		<section class="- topic/section ">
+			<p class="- topic/p ">I’m having trouble previewing Microsoft Office files. Why?</p>
+			<p class="- topic/p ">Mobile Print uses iOS services to render previews of Office documents. For better results, use files produced in Office 2007 or later.</p>
+		</section>
+		<section class="- topic/section ">
+			<p class="- topic/p ">I resized a document by pinching it in the viewport, and then I printed it. Why does the printed document have a large black stripe running down the right margin?</p>
+			<p class="- topic/p ">The app does not support pinch gestures on .HTML files, .RTF files, all iWork and Microsoft Office files, or anything accessed through the built-in web browser. To print these file types at their normal size, refrain from using pinch gestures in the viewport prior to printing.</p>
+		</section>
+		<section class="- topic/section ">
+			<p class="- topic/p ">While using the app on my iOS device I received a message about “low memory.” What does this mean?</p>
+			<p class="- topic/p ">Your iOS device will send a warning message when memory allocation becomes low. When memory allocation becomes low, the system will attempt to free up memory being used by open apps. If not enough memory is freed up, it’s possible that apps will crash. Closing open apps on your mobile device may alleviate the situation.</p>
+		</section>
+		<section class="- topic/section ">
+			<p class="- topic/p ">I sent a print job, but my printing device is not responding. Why?</p>
+			<p class="- topic/p ">Check that your devices are connected to your local area network, and that the printing device is turned on.</p>
+		</section>
+		<section class="- topic/section ">
+			<p class="- topic/p ">Printing/scanning performance is slow, what should I do?</p>
+			<p class="- topic/p ">Selecting a lower resolution option may help. It is also possible that your network connection is slow, which can affect printing performance. Also, consider adding more RAM to your printing device. The recommended amount is 512MB at minimum.</p>
+		</section>
+		<section class="- topic/section ">
+			<p class="- topic/p ">I'm a system administrator. How can I set printing and scanning restrictions?</p>
+			<p class="- topic/p ">The system administrator can restrict printing and scanning through Command Center by turning on local authentication or network authentication. With local authentication turned on in the MFP device, user restrictions are set to print for iOS devices and print and scan for Android devices. With network authentication turned on in the MFP device, user restrictions are set to scan for Android devices. Additionally, print restrictions for both iOS and Android devices are handled by the user login fields in the app. Scan restrictions for Android devices are also handled by user login and authentication mode in the app.</p>
+		</section>
+		<section class="- topic/section ">
+			<p class="- topic/p ">Why do I encounter errors when I try to print an encrypted PDF file?</p>
+			<p class="- topic/p ">It’s possible that the MFP device does not support the PDF version of the document; only PDF versions 1.4 through 1.7 are supported. Alternatively, the MFP device might not support the PDF encryption method used on the encrypted file.</p>
+		</section>
+		<section class="- topic/section ">
+			<p class="- topic/p ">Why is text displayed on or printed from my mobile device’s clipboard illegible?</p>
+			<p class="- topic/p ">It’s possible that the text encoding of the clipboard content differs from the text encoding that is set on the mobile device. Alternatively, the clipboard content might be set to a font that is not supported by the mobile device. Changing the setting for <uicontrol class="+ topic/ph ui-d/uicontrol ">Advanced</uicontrol> &gt; <uicontrol class="+ topic/ph ui-d/uicontrol "> Text encoding (Clipboard)</uicontrol> in the app might alleviate the problem.</p>
+		</section>
+		<section class="- topic/section ">
+			<p class="- topic/p ">When I use the app on an Android device to access password-protected PDF documents, why do I receive multiple requests to enter the document's password?</p>
+			<p class="- topic/p ">With Android devices, each time the app interacts with a password-protected PDF document, the document's password must be entered manually.</p>
+		</section>
+		<section class="- topic/section ">
+			<p class="- topic/p ">My network uses a switch manufactured by 3COM. How should I configure the switch so that Mobile Print can discover connected devices?</p>
+			<p class="- topic/p ">In the web interface for your 3COM switch, click <uicontrol class="+ topic/ph ui-d/uicontrol ">Device View</uicontrol> &gt; <uicontrol class="+ topic/ph ui-d/uicontrol ">Bridge</uicontrol> &gt; <uicontrol class="+ topic/ph ui-d/uicontrol ">Multicast Filter</uicontrol> &gt; <uicontrol class="+ topic/ph ui-d/uicontrol ">IGMP</uicontrol> &gt; <uicontrol class="+ topic/ph ui-d/uicontrol ">Snoop Mode</uicontrol>. Then set <uicontrol class="+ topic/ph ui-d/uicontrol ">IGMP Multicast Filtering</uicontrol> to <uicontrol class="+ topic/ph ui-d/uicontrol ">Enabled</uicontrol>. Once you've saved your changes, you should be able to discover connected devices through Mobile Print via WS-Discovery.</p>
+		</section>
+		<section class="- topic/section ">
+			<p class="- topic/p ">Why do I get a file access error when saving a scanned document to an SD card?</p>
+			<p class="- topic/p ">Beginning with Android v.4.0 (Kitkat), some folders in the SD card are restricted for writing by the device. To save scanned documents, select <uicontrol class="+ topic/ph ui-d/uicontrol ">/sdcard/download</uicontrol> in <uicontrol class="+ topic/ph ui-d/uicontrol ">Advanced Settings</uicontrol> &gt; <uicontrol class="+ topic/ph ui-d/uicontrol ">File location</uicontrol>.</p>
+		</section>
+		<section class="- topic/section ">
+			<p class="- topic/p ">How do I connect to a printing device using a QR code?</p>
+			<p class="- topic/p ">Use the camera to scan a printing device QR code. When the code is confirmed, tap <uicontrol class="+ topic/ph ui-d/uicontrol ">Connect</uicontrol> to connect to the device.</p>
+		</section>
+		<section class="- topic/section ">
+			<p class="- topic/p ">Why is the camera orientation incorrect when I open and rotate the camera in Mobile Print?</p>
+			<p class="- topic/p ">Rotate the device before using the camera in Mobile Print.</p>
+		</section>
+		<section class="- topic/section ">
+			<p class="- topic/p ">Why can't I open .RTF files in Mobile Print on my iOS device running iOS 8?</p>
+			<p class="- topic/p ">The app does not support .RTF files in that operating system.</p>
+		</section>
+		<section class="- topic/section ">
+			<p class="- topic/p ">When I print encrypted PDF documents on an Android device, the Orientation setting in Printing preferences is disabled. Why?</p>
+			<p class="- topic/p ">On Android devices, encrypted PDF documents can only be printed in their native orientation. The app automatically selects the correct orientation setting in <uicontrol class="+ topic/ph ui-d/uicontrol ">Printing preferences</uicontrol>.</p>
+		</section>
+	</conbody>
+</concept>

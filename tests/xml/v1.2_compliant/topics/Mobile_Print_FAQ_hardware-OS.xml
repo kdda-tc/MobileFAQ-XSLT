@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><!--Attribute filters: platform=  audience=--><concept xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="../org.oasis-open.dita.v1_2/schema/technicalContent/xsd/concept.xsd" id="hardware" class="- topic/topic concept/concept">
+	<title class="- topic/title ">Hardware and operating system</title>
+	<conbody class="- topic/body concept/conbody">
+		<section class="- topic/section ">
+			<p class="- topic/p ">Which mobile devices are supported?</p>
+			<ul class="- topic/ul ">
+				<li class="- topic/li ">
+					<p class="- topic/p ">Apple iPad, iPhone, and iPod touch devices running iOS version 5.0 or later</p>
+				</li>
+				<li class="- topic/li ">
+					<p class="- topic/p ">Android smartphones and tablets</p>
+				</li>
+			</ul>
+		</section>
+		<section class="- topic/section ">
+			<p class="- topic/p ">Which Android versions are supported?</p>
+			<p class="- topic/p ">Version 2.2 or later for smartphones, and version 3.0 or later for tablets.</p>
+		</section>
+		<section class="- topic/section ">
+			<p class="- topic/p ">If I save a document or image file in the app on my Android device, where is it stored?</p>
+			<p class="- topic/p ">Document or image files saved in the app are stored in your specified download folder or in the default <uicontrol class="+ topic/ph ui-d/uicontrol ">/sdcard/Download</uicontrol> folder.</p>
+		</section>
+		<section class="- topic/section ">
+			<p class="- topic/p ">If I save a document or image file in the app on my iOS device, where is it stored?</p>
+			<p class="- topic/p ">Document or image files saved in the app are only accessible through the app’s <uicontrol class="+ topic/ph ui-d/uicontrol ">Documents</uicontrol> window.</p>
+		</section>
+		<section class="- topic/section ">
+			<p class="- topic/p ">Which printers and MFPs are supported?</p>
+			<p class="- topic/p ">The complete list appears at the end of this document.</p>
+		</section>
+		<section class="- topic/section ">
+			<p class="- topic/p ">Are you planning to add support for additional printer and MFP models?</p>
+			<p class="- topic/p ">Yes. The app will be updated occasionally to support new printing devices.</p>
+		</section>
+		<section class="- topic/section ">
+			<p class="- topic/p ">Can I use this app to print to other printers and MFPs?</p>
+			<p class="- topic/p ">The app will not work with other brand printers and MFPs.</p>
+		</section>
+		<section class="- topic/section ">
+			<p class="- topic/p ">Are there any differences in the Mobile Print for tablet device versus mobile phone?</p>
+			<p class="- topic/p ">The layout is slightly different to take best advantage of the different screen sizes, but the features are the same for both.</p>
+		</section>
+	</conbody>
+</concept>

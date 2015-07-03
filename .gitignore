@@ -2,3 +2,6 @@
 __pycache__/
 *.py[cod]
 idle.py
+
+#Mac
+.DS_Store

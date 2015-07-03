@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="org.oasis-open.dita.v1_2/schema/base/xsd/basemap.xsd" class="- map/map " xml:lang="en-US" chunk="to-content">
+<topicref navtitle="general" type="concept" class="- map/topicref " href="topics/Mobile_Print_FAQ_general.xml"/>
+<topicref navtitle="hardware" type="concept" class="- map/topicref " href="topics/Mobile_Print_FAQ_hardware-OS.xml"/>
+<topicref navtitle="prinscan" type="concept" class="- map/topicref " href="topics/Mobile_Print_FAQ_print-scan.xml"/>
+<topicref navtitle="network" type="concept" class="- map/topicref " href="topics/Mobile_Print_FAQ_discovery-network.xml"/>
+<topicref navtitle="email" type="concept" class="- map/topicref " href="topics/Mobile_Print_FAQ_email-web.xml"/>
+<topicref navtitle="trouble" type="concept" class="- map/topicref " href="topics/Mobile_Print_FAQ_troubleshooting.xml"/>
+</map>

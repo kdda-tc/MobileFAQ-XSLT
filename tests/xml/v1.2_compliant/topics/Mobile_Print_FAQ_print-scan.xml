@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><!--Attribute filters: platform=  audience=--><concept xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="../org.oasis-open.dita.v1_2/schema/technicalContent/xsd/concept.xsd" id="print" class="- topic/topic concept/concept">
+	<title class="- topic/title ">Printing and scanning</title>
+	<conbody class="- topic/body concept/conbody">
+		<section class="- topic/section ">
+			<p class="- topic/p ">How do I print a photo?</p>
+			<p class="- topic/p ">Photos can be accessed through the app’s <uicontrol class="+ topic/ph ui-d/uicontrol ">Photos</uicontrol> window. To access existing photos, tap the <uicontrol class="+ topic/ph ui-d/uicontrol ">Albums</uicontrol> icon. If your mobile device includes a built-in camera, you can take a new photo to print by tapping the <uicontrol class="+ topic/ph ui-d/uicontrol ">Camera</uicontrol> icon. Once you’ve selected a photo, you can adjust print options.</p>
+		</section>
+		<section class="- topic/section ">
+			<p class="- topic/p ">How do I print a document?</p>
+			<p class="- topic/p ">Documents can be accessed through the app’s <uicontrol class="+ topic/ph ui-d/uicontrol ">Documents</uicontrol> window. To access existing documents, tap the <uicontrol class="+ topic/ph ui-d/uicontrol ">Documents</uicontrol> icon. Once you’ve selected a document, you can adjust print options.</p>
+		</section>
+		<section class="- topic/section ">
+			<p class="- topic/p ">What types of files can I print?</p>
+			<p class="- topic/p ">You can print .JPG, .PNG, .PDF, .TIFF, and .XPS files. On iOS devices, you can also print .HTML, .RTF, and .TXT files, as well as all Microsoft Office (Word, PowerPoint, and Excel) or iWork (Keynote, Numbers, and Pages) file types. On Android devices, .TXT and .HTML files print at lower resolution.</p>
+		</section>
+		<section class="- topic/section ">
+			<p class="- topic/p ">What printing options are available through the app?</p>
+			<p class="- topic/p ">The print quality options supported in the app are High, Normal, and Draft. Paper size options are Letter, Legal, Ledger, Statement, A3, A4, A5, A6, Folio, B4, B5, and B6. You can also select the number of copies to print, number of pages per sheet, and page range. Additional options include color or B&amp;W printing, duplex (2-sided) printing, stapling, or hole-punching. While the app supports a wide range of printing options, it cannot detect which options are available on a specific printing device or MFP. To ascertain which options are available on your printing device, consult the device’s operation guide.</p>
+		</section>
+		<section class="- topic/section ">
+			<p class="- topic/p ">Can I select the paper tray?</p>
+			<p class="- topic/p ">No. Print jobs are automatically sent to the printing device’s default paper tray. However, if the paper size that you selected is in a tray other than the default, that tray will be used to print the job.</p>
+		</section>
+		<section class="- topic/section ">
+			<p class="- topic/p ">Can I save a new photo taken in Mobile Print?</p>
+			<p class="- topic/p ">Yes. On iOS devices, new photos taken in the app are saved to the device’s native <uicontrol class="+ topic/ph ui-d/uicontrol ">Albums</uicontrol> folder. On Android devices, new photos are saved in your specified download folder or in the default <uicontrol class="+ topic/ph ui-d/uicontrol ">/sdcard/Download</uicontrol> folder.</p>
+		</section>
+		<section class="- topic/section ">
+			<p class="- topic/p ">How do I view stored photos or documents in Mobile Print?</p>
+			<p class="- topic/p ">On iOS devices, you can access stored photos or documents in the <uicontrol class="+ topic/ph ui-d/uicontrol ">Documents</uicontrol> window. On Android devices, you can access stored photos or documents in your specified download folder or in the default <uicontrol class="+ topic/ph ui-d/uicontrol ">/sdcard/Download</uicontrol> folder.</p>
+		</section>
+		<section class="- topic/section ">
+			<p class="- topic/p ">Where do I save a new scan?</p>
+			<p class="- topic/p ">On iOS devices, new scans are saved in the app’s <uicontrol class="+ topic/ph ui-d/uicontrol ">Documents</uicontrol> window. On Android devices, new scans are saved in your specified download folder or in the default <uicontrol class="+ topic/ph ui-d/uicontrol ">/sdcard/Download</uicontrol> folder.</p>
+		</section>
+		<section class="- topic/section ">
+			<p class="- topic/p ">What file formats are supported for scanning?</p>
+			<p class="- topic/p ">You can scan documents for output in .JPG, .TIFF, and .PDF formats.</p>
+		</section>
+		<section class="- topic/section ">
+			<p class="- topic/p ">Can I e-mail scanned files?</p>
+			<p class="- topic/p ">You can use your mobile device’s e-mail app to send scanned files that you have saved on your mobile device. On iOS devices, you can attach saved scans to an e-mail message and send via the device’s native <uicontrol class="+ topic/ph ui-d/uicontrol ">Mail</uicontrol> app. On Android devices, you can attach saved scans to an e-mail message using any e-mail app that you have installed on your device.</p>
+		</section>
+		<section class="- topic/section ">
+			<p class="- topic/p ">Is OCR supported?</p>
+			<p class="- topic/p ">No.</p>
+		</section>
+		<section class="- topic/section ">
+			<p class="- topic/p ">What is Job accounting?</p>
+			<p class="- topic/p ">Job accounting lets the system administrator keep track of all print and scan jobs initiated by users. This feature is available on compatible printers and MFPs. To enable Job accounting, contact your system administrator.</p>
+		</section>
+		<section class="- topic/section ">
+			<p class="- topic/p ">What printing protocols are supported?</p>
+			<p class="- topic/p ">RAW (port 9100), IPP (port 631), and IPPS (SSL port 443) are supported. On iOS devices, you can designate a printing protocol by tapping <uicontrol class="+ topic/ph ui-d/uicontrol ">Settings</uicontrol> &gt; <uicontrol class="+ topic/ph ui-d/uicontrol ">Mobile Print</uicontrol> &gt; <uicontrol class="+ topic/ph ui-d/uicontrol ">Printing protocol</uicontrol>. On Android devices, within the app, tap <uicontrol class="+ topic/ph ui-d/uicontrol ">Menu</uicontrol> &gt; <uicontrol class="+ topic/ph ui-d/uicontrol ">Advanced Settings</uicontrol> &gt; <uicontrol class="+ topic/ph ui-d/uicontrol ">Printing protocol</uicontrol>. The printing protocol selected on your mobile device must match that used by the printing device. If you are not sure which protocol is used by your printing device, contact your system administrator.</p>
+		</section>
+		<section class="- topic/section ">
+			<p class="- topic/p ">Is there a limit to the number of pages that can be scanned via the app on Android devices?</p>
+			<p class="- topic/p ">On compatible Android devices with at least 512MB of RAM, the app can scan up to 60 pages at A4/color/200 dpi or 15 pages at A3/color/600 dpi.</p>
+		</section>
+		<section class="- topic/section ">
+			<p class="- topic/p ">Can the app print PDF documents containing multiple pages with differing paper sizes?</p>
+			<p class="- topic/p ">With iOS devices, yes. With Android devices, not in one pass. In the latter case, the app can only accurately print one particular page size per print job. If your PDF document contains pages having different sizes, consider grouping pages by size and sending each group as a separate print job.</p>
+		</section>
+	</conbody>
+</concept>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><!--Attribute filters: platform=  audience=--><concept xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="../org.oasis-open.dita.v1_2/schema/technicalContent/xsd/concept.xsd" id="general" class="- topic/topic concept/concept">
+	<title class="- topic/title ">General</title>
+	<conbody class="- topic/body concept/conbody ">
+		<section class="- topic/section ">
+			<p class="- topic/p ">What is Mobile Print?</p>
+			<p class="- topic/p ">Mobile Print is a convenient app for iOS and Android that lets you use your mobile device to connect wirelessly to compatible printing devices and MFPs on your local area network. When connected, you can do the following:</p>
+			<ul class="- topic/ul ">
+				<li class="- topic/li ">
+					<p class="- topic/p ">Print photos and documents stored on your mobile device.</p>
+				</li>
+				<li class="- topic/li ">
+					<p class="- topic/p ">Scan documents on a compatible MFP and save them to your mobile device.</p>
+				</li>
+				<li class="- topic/li ">
+					<p class="- topic/p ">Send documents by e-mail.</p>
+				</li>
+				<li class="- topic/li ">
+					<p class="- topic/p ">Print webpages accessed through the app's built-in web browser.</p>
+				</li>
+			</ul>
+		</section>
+		<section class="- topic/section ">
+			<p class="- topic/p ">Where can I download Mobile Print?</p>
+			<p class="- topic/p ">The app is available for download from the <uicontrol class="+ topic/ph ui-d/uicontrol ">iTunes App Store</uicontrol> (for iOS devices) and <uicontrol class="+ topic/ph ui-d/uicontrol ">Google Play</uicontrol> (for Android devices).</p>
+		</section>
+		<section class="- topic/section ">
+			<p class="- topic/p ">How much does Mobile Print cost?</p>
+			<p class="- topic/p ">The app is free.</p>
+		</section>
+		<section class="- topic/section ">
+			<p class="- topic/p ">Which languages are supported by Mobile Print?</p>
+			<p class="- topic/p ">Mobile Print supports English, French, German, Italian, Japanese, Korean, Portuguese, Simplified Chinese, Traditional Chinese, and Spanish. The app automatically displays in the same language as that set in your mobile device’s system settings. If your mobile device is set to a language other than the supported languages listed above, the app will display in English.</p>
+		</section>
+	</conbody>
+</concept>
